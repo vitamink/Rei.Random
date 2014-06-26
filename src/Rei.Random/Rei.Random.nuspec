@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://raw.githubusercontent.com/vitamink/Rei.Random/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/vitamink/Rei.Random</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/vitamink/Rei.Random/master/content/rei_logo_32.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release, version 1.0.0.</releaseNotes>
+    <copyright>Copyright 2014 Rei Hobara</copyright>
+    <tags>Random SFMT MersenneTwister MotherOfAll Well RanrotB XorShift LCG</tags>
+  </metadata>
+</package>
