@@ -14,3 +14,8 @@ All credit goes to the original authors of Mersenne Twister, and other algorithm
 *   Well
 *   Ranrot-B
 
+##Todo List
+1.  Add original unit tests to project.
+2.  Sign assembly.
+3.  Nant build script.
+4.  Publish package on nuget.
