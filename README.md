@@ -1,5 +1,4 @@
-C# Random Number Library
-========================
+# C# Random Number Library
 
 C# implementation of [Mersenne Twister](http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/mt.html) & [SFMT](http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/SFMT/index.htm), written and maintained by Rei Hobara.
 
@@ -8,7 +7,7 @@ Mersenne Twister (MT) is arguably the most popular pseudo-random number generato
 All credit goes to the original authors of Mersenne Twister, SFMT and other algorithms.<br>
 Thanks to Rei for translating the original C code into C#, bring together a number of random algorithms, and giving permission to re-publish her work here!
 
-##Implemented Algorithms
+## Implemented Algorithms
 *   [Linear Congruential (LCG)](http://en.wikipedia.org/wiki/Linear_congruential_generator)
 *   [Mother of All](http://www.codecogs.com/library/statistics/random/motherofall.php)
 *   [Mersenne Twister](http://en.wikipedia.org/wiki/Mersenne_twister)
@@ -17,7 +16,7 @@ Thanks to Rei for translating the original C code into C#, bring together a numb
 *   [Well](http://en.wikipedia.org/wiki/Well_Equidistributed_Long-period_Linear)
 *   [Ranrot-B](http://www.agner.org/random/randomc.htm)
 
-##Todo List
+## Todo
 1.  Add original unit tests to project.
 2.  Sign assembly.
 3.  Nant build script.
