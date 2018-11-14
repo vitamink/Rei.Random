@@ -1,4 +1,4 @@
-# C# Random Number Library
+# A .NET Pseudo-Random Number Library
 
 C# implementation of [Mersenne Twister](http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/mt.html) & [SFMT](http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/SFMT/index.htm), written and maintained by Rei Hobara.
 
