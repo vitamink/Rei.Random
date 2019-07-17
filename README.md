@@ -5,7 +5,7 @@ C# implementation of [Mersenne Twister](http://www.math.sci.hiroshima-u.ac.jp/~m
 Mersenne Twister (MT) is arguably the most popular pseudo-random number generator. SFMT is an optimized version of MT which is roughly twice as fast.
 
 All credit goes to the original authors of Mersenne Twister, SFMT and other algorithms.<br>
-Thanks to Rei for translating the original C code into C#, bring together a number of pseudo-random algorithms, and giving permission to re-publish her work here!
+Thanks to Rei for translating the original C code into C#, bringing together a number of pseudo-random algorithms, and giving permission to re-publish her work here!
 
 ## Implemented Algorithms
 *   [Linear Congruential (LCG)](http://en.wikipedia.org/wiki/Linear_congruential_generator)
